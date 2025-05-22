@@ -1,4 +1,4 @@
-![My Photo](https://cdn4.cdn-telegram.org/file/mDMpMHUYsKun8m2qin66isGZzV2iQOJd459PljO6A3bNgtINkuDU261KvCLmkaFcAs6Ml7vyy_LQL8wKE7qbx7F-UPU0Lm8MBn9IF2pReEw-vU8mA6uGxzCHsx6h1vhmjpCAmF4JqYgcaPgvTYbPsSYiCrkPjJKiG3RZGW8PWjEFeu1qH9hsLxlLzTL1mB6kh0kG7DQgrO0dBKaJ2718S8xtgM2epAoZX2Smhfxl8Jun-LCXK5eVnhHjIUYurl1IeWO57lAmK_WzFQm46BbJvRfn9NRfF4XDkAVwqJJUrSEPEwee3I9tyZnC7cq1Hyk-6b7GLIPM_5AYQWYwlOr-Aw.jpg)
+![My Photo](photo.jpg)
 
 # 🧠 Solutions Architect / Tech Lead / DBA  
 *Building scalable systems and strong families*
